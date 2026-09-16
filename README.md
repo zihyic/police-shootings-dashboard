@@ -81,7 +81,7 @@ An interactive version of this dashboard is live on the portfolio site: **https:
 ![Incidents by year](visuals/trend_by_year.png)
 ![Top 10 states](visuals/top_states.png)
 ![Incidents by victim race](visuals/by_race.png)
-![Victims by arms category](visuals/arms_donut.png)
+![Victims by arms category](visuals/arms_donut_clean.png)
 
 ## More Results
 
