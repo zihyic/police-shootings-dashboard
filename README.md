@@ -82,3 +82,13 @@ An interactive version of this dashboard is live on the portfolio site: **https:
 ![Top 10 states](visuals/top_states.png)
 ![Incidents by victim race](visuals/by_race.png)
 ![Victims by arms category](visuals/arms_donut.png)
+
+## More Results
+
+![Incidents by month and year](visuals/police_monthly_heatmap.png)
+
+![What victims were reportedly armed with — top 10](visuals/police_armed_top10.png)
+
+![Victim age distribution by race](visuals/police_age_by_race.png)
+
+![Body-camera presence and flee outcomes](visuals/police_bodycam_flee.png)
